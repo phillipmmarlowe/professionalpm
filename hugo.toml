@@ -1,0 +1,97 @@
+baseURL = 'https://example.org/'
+#builddrafts = false
+canonifyurls = false
+languageCode = 'en-us'
+theme = 'hugo-goa'
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Phillip Marlowe"
+title = 'Phillip Marlowe Professional Engineer'
+
+## Hugo Built-in Features
+# disqusShortname = "discusShortname" # Enable if you want to use Disqus
+# googleAnalytics = "UA-XXXXXXXX-X" # Enable if you want to use Google Analytics
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Phillip Marlowe"
+intro = "FPGA/ASIC RTL and Physical Design Engineer"
+description = "Always busy"
+authorimage = "headshot.jpg"
+dateformat = "Dec 3, 2025"
+backgroundImage = './assets/pcb_img.jpeg'
+
+## Site Meta Settings
+[params.meta]
+description = "Logic meets Art"
+keywords = "logic,art,fpga,asic,engineer,developer,boarder,musician"
+
+## Social Accounts
+[params.social]
+github = "phillipmmarlowe"
+#instagram = "<username>"
+linkedin = "phillipmmarlowe"
+#twitter = "<username>"
+#facebook = "<username>"
+#google = "<username>"
+#googlescholar = "<account_id>"
+#orcid = "0123-4567-8901-2345"
+#stackoverflow = "<username>"
+#lastfm = "<username>"
+#goodreads = "<username>"
+#gitlab = "pmarlowe"
+#bitbucket = "<username>"
+#fivehundredpx = "<username>"
+#flickr = "<username>"
+#foursquare = "<username>"
+#hackernews = "<username>"
+#kickstarter = "<username>"
+#patreon = "<username>"
+#pintrest = "<username>"
+#steam = "<username>"
+#reddit = "<username>"
+#snapchat = "<username>"
+#youtube = "<channelid>"
+#keybase = "<username>"
+#twitch = "<username>"
+#soundcloud = "<username>"
+#tumblr = "<username>"
+#strava = "<username>"
+#skype = "<username>"
+#telegram = "<username>"
+#whatsapp = "<username>"
+#buymeacoffee = "<username>"
+#kaggle = "<username>"
+#holopin = "<username>"
+email = "phillipmikhailmarlowe@gmail.com"
+#pgp = "<key_fingerprint>"
+
+## Extras
+[params.extra]
+copyright = "© 2025. Phillip Marlowe. [Close to zero Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = false
+highlightjs = false
+socialmarkup = false
+toc = false
+displayrssicon = false
+
+## Main Menu
+[[menu.main]]
+name = "posts"
+weight = 100
+identifier = "posts"
+url = "posts/"
+[[menu.main]]
+name = "about"
+identifier = "about"
+weight = 200
+url = "about/"
+[[menu.main]]
+name = "projects"
+identifier = "projects"
+weight = 300
+url = "projects/"

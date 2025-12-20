@@ -8,7 +8,6 @@ enableInlineShortcodes = true
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
-cacheDir = "static"
 
 # Image cache for github pages
 [caches]

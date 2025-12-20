@@ -9,6 +9,11 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 
+# Image cache for github pages
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 author = "Phillip Marlowe"
 title = 'Phillip Marlowe Professional Engineer'
 

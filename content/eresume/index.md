@@ -10,4 +10,4 @@ title = "Engineering Resume"
 showpagemeta = false
 +++
 
-{{< embed-pdf url="/images/Engineering_Resume_PM.pdf" renderPageNum="1" hidePaginator="true" >}}
+{{< embed-pdf url="https://phillipmmarlowe.github.io/professionalp/images/Engineering_Resume_PM.pdf" renderPageNum="1" hidePaginator="true" >}}

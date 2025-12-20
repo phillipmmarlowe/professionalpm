@@ -30,7 +30,7 @@ intro = "FPGA/ASIC RTL and Physical Design Engineer"
 description = "Always busy"
 authorimage = "headshot.jpg"
 dateformat = "Dec 3, 2025"
-backgroundImage = '/images/pcb_img.jpeg'
+backgroundImage = 'https://phillipmmarlowe.github.io/professionalp/images/pcb_img.jpeg'
 
 ## Site Meta Settings
 [params.meta]

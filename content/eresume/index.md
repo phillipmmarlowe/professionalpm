@@ -22,4 +22,4 @@ showpagemeta = false
     class="about-figure"
 >}}
 
-![Resume PDF Download](https://phillipmmarlowe.github.io/professionalp/images/Engineering_Resume_PM.pdf "")
+[Download Resume (PDF)](https://phillipmmarlowe.github.io/professionalp/images/Engineering_Resume_PM.pdf)

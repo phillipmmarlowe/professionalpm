@@ -1,6 +1,6 @@
 baseURL = 'https://phillipmmarlowe.github.io/professionalp/'
 #builddrafts = false
-canonifyurls = true
+canonifyurls = false
 languageCode = 'en-us'
 theme = ["hugo-embed-pdf-shortcode", "hugo-goa"]
 enableInlineShortcodes = true

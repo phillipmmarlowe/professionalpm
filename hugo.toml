@@ -2,7 +2,8 @@ baseURL = 'https://example.org/'
 #builddrafts = false
 canonifyurls = false
 languageCode = 'en-us'
-theme = 'hugo-goa'
+theme = ["hugo-embed-pdf-shortcode", "hugo-goa"]
+enableInlineShortcodes = true
 
 contentdir = "content"
 layoutdir = "layouts"
@@ -86,6 +87,11 @@ name = "about"
 identifier = "about"
 weight = 200
 url = "about/"
+[[menu.main]]
+name = "resume"
+identifier = "resume"
+weight = 250
+url = "eresume/"
 [[menu.main]]
 name = "projects"
 identifier = "projects"

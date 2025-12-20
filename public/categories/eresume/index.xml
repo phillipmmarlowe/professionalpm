@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eresume on Phillip Marlowe Professional Engineer</title>
+    <link>http://localhost:1313/categories/eresume/</link>
+    <description>Recent content in Eresume on Phillip Marlowe Professional Engineer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/eresume/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Engineering Resume</title>
+      <link>http://localhost:1313/eresume/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/eresume/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/imgs/Engineering_Resume_PM.pdf&#34;&gt;Download Resume (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+  </channel>
+</rss>

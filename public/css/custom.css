@@ -22,163 +22,41 @@ body {
   /* First layer: dark overlay
      Second layer: your image */
   background:
-    linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)),
     url("/imgs/pcb_img.jpeg") center center / cover no-repeat fixed;
 }
 
-a:link {
-  color: #e3c0a0;
-}
 
-.category {
-  color: #e3c0a0 !important;
-}
-
-div.content {
-  color: #e3c0a0;
-}
-
-.content a {
-  color: #e3c0a0;
-}
-
-.footer {
-  color: #e3c0a0;
-}
-
-.menu-item {
-
-  color: #d29965 !important;
-}
-
-.author {
-  color: #d29965;
-}
-
-.intro {
-  color: #d29965;
-}
-
-.social a {
-  color: #d29965;
-}
-
-.excerpt {
-  color: #e3c0a0;
-}
-
-.description {
-  color: #e3c0a0
-}
-
-.error {
-  color: #e3c0a0
-}
-.error a {
-  color: #e3c0a0
-}
-.error h1 {
-  color: #e3c0a0
-}
-.error p {
-  color: #e3c0a0
-}
-
-/* Add custom CSS here. */
-/* Custom overrides */
-
-figure.about-figure {
-  margin: 1.5rem auto;
-  text-align: center;
-}
-
-figure.about-figure img {
-  display: block;
-  margin: 0 auto;
-}
-html, body {
-  height: 100%;
-}
-
-/* main background + overlay + text color */
-body {
-  font-family: "Roboto Slab", "Roboto", "Lato", sans-serif;
-  color: #d29965;  /* light text */
-
-  /* First layer: dark overlay
-     Second layer: your image */
-  background:
-    linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("/imgs/pcb_img.jpeg") center center / cover no-repeat fixed;
-}
-
-a:link {
-  color: #e3c0a0;
-}
-
-.category {
-  color: #e3c0a0 !important;
-}
-
-div.content {
-  color: #e3c0a0;
-}
-
-.content a {
-  color: #e3c0a0;
-}
-
-.footer {
-  color: #e3c0a0;
-}
-
-.menu-item {
-
-  color: #d29965 !important;
-}
-
-.author {
-  color: #d29965;
-}
-
-.intro {
-  color: #d29965;
-}
-
-.social a {
-  color: #d29965;
-}
-
-.excerpt {
-  color: #e3c0a0;
-}
-
-.description {
-  color: #e3c0a0
-}
-
-.error {
-  color: #e3c0a0
-}
-.error a {
-  color: #e3c0a0
-}
-.error h1 {
-  color: #e3c0a0
-}
-.error p {
-  color: #e3c0a0
-}
-
+a,
+a:hover,
+a:visited,
+a:link,
+.meta,
+a.meta,
+h6.meta,
+.list-entry-link,
+.list li,
+.category,
 div.content,
-div.content p,
-div.content li,
-div.content span,
-div.content h1,
-div.content h2,
-div.content h3,
-div.content h4,
-div.content h5,
-div.content h6 {
+.content a,
+.footer,
+.excerpt,
+.description,
+.error,
+.error a,
+.error h1,
+.error p {
+  color: #e3c0a0;
+}
+
+.category {
   color: #e3c0a0 !important;
 }
+
+.menu-item,
+.author,
+.intro,
+.social a {
+  color: #d29965 !important;
+}
+

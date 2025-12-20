@@ -23,6 +23,15 @@
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/eresume/</loc>
+    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/eresume/</loc>
+    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/eresume/</loc>
+    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url><url>

@@ -9,5 +9,15 @@ title = "Engineering Resume"
 
 showpagemeta = false
 +++
+<!-- 
+{{< embed-pdf url="https://phillipmmarlowe.github.io/professionalp/images/Engineering_Resume_PM.png">}}
+ -->
 
-{{< embed-pdf url="https://phillipmmarlowe.github.io/professionalp/images/Engineering_Resume_PM.pdf">}}
+{{< figure
+    src="https://phillipmmarlowe.github.io/professionalp/images/Engineering_Resume_PM.png"
+    alt="CE Resume"
+    title=""
+    caption=""
+    width="800"
+    class="about-figure"
+>}}

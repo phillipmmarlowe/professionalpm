@@ -12,7 +12,7 @@ publishdir = "public"
 # Image cache for github pages
 [caches]
   [caches.images]
-    dir = ':cacheDir/images'
+    dir = ':cacheDir/imgs'
 
 author = "Phillip Marlowe"
 title = 'Phillip Marlowe Professional Engineer'

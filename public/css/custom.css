@@ -23,7 +23,7 @@ body {
      Second layer: your image */
   background:
     linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)),
-    url("/imgs/pcb_img.jpeg") center center / cover no-repeat fixed;
+    url("/images/pcb_img.jpeg") center center / cover no-repeat fixed;
 }
 
 

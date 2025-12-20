@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Phillip Marlowe Professional Engineer</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Phillip Marlowe Professional Engineer</description>
+    <title>Posts on </title>
+    <link>https://phillipmmarlowe.github.io/professionalp/posts/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Dec 2025 18:50:07 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://phillipmmarlowe.github.io/professionalp/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://phillipmmarlowe.github.io/professionalp/posts/my-first-post/</link>
       <pubDate>Wed, 03 Dec 2025 18:50:07 -0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://phillipmmarlowe.github.io/professionalp/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;gotta-start-somewhere&#34;&gt;Gotta Start Somewhere&lt;/h2&gt;&#xA;&lt;p&gt;Now that my Masters project is coming to a close, I am starting to get moments of breathing room that have allowed me to produce this minimal website/blog to showcase my professional and academic projects as well as other professional knowledge about me.&lt;/p&gt;</description>
     </item>
   </channel>

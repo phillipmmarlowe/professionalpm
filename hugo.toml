@@ -12,7 +12,7 @@ publishdir = "public"
 # Image cache for github pages
 [caches]
   [caches.images]
-    dir = ':cacheDir/imgs'
+    dir = ':cacheDir/images'
 
 author = "Phillip Marlowe"
 title = 'Phillip Marlowe Professional Engineer'
@@ -30,7 +30,7 @@ intro = "FPGA/ASIC RTL and Physical Design Engineer"
 description = "Always busy"
 authorimage = "headshot.jpg"
 dateformat = "Dec 3, 2025"
-backgroundImage = '/imgs/pcb_img.jpeg'
+backgroundImage = '/images/pcb_img.jpeg'
 
 ## Site Meta Settings
 [params.meta]

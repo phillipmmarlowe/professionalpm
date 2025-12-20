@@ -10,4 +10,4 @@ title = "Engineering Resume"
 showpagemeta = false
 +++
 
-{{< embed-pdf url="/imgs/Engineering_Resume_PM.pdf" renderPageNum="1" hidePaginator="true" >}}
+{{< embed-pdf url="/images/Engineering_Resume_PM.pdf" renderPageNum="1" hidePaginator="true" >}}

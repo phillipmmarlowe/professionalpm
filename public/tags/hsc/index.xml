@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HSC on Phillip Marlowe Professional Engineer</title>
-    <link>http://localhost:1313/tags/hsc/</link>
-    <description>Recent content in HSC on Phillip Marlowe Professional Engineer</description>
+    <title>HSC on </title>
+    <link>https://phillipmmarlowe.github.io/professionalp/tags/hsc/</link>
+    <description>Recent content in HSC on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/hsc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://phillipmmarlowe.github.io/professionalp/tags/hsc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Academic/Professional Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://phillipmmarlowe.github.io/professionalp/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://phillipmmarlowe.github.io/professionalp/projects/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Semi General Physical Design Flow for eFPGA RTL&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;p&gt;During my masters, I&amp;rsquo;ve developed a semi-general, semi-automated physical design flow for ASIC/FPGA that has been used to produce multiple real designs, including an N8 K4 4×4 FPGA, an N2 K4 8×8 FPGA, and several smaller blocks such as individual FPGA tiles, CLBs, and buffer chains. All of these designs are implemented using open-source process design kits (PDKs). The primary target has been the ASAP7 PDK from ASU, while the FreePDK45 (Free45nm) from NC State has been used to produce a CLB in an alternative process node. This project focuses on building a reusable, configurable back-end flow that can take FPGA-style RTL through to layout on modern open PDKs, enabling rapid experimentation with different architectures and technology nodes.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -10,11 +10,11 @@ title = "Engineering Resume"
 showpagemeta = false
 +++
 <!-- 
-{{< embed-pdf url="https://phillipmmarlowe.github.io/professionalp/images/Engineering_Resume_PM.pdf">}}
+{{< embed-pdf url="https://phillipmmarlowe.github.io/professionalpm/images/Engineering_Resume_PM.pdf">}}
  -->
 
 {{< figure
-    src="https://phillipmmarlowe.github.io/professionalp/images/Engineering_Resume_PM.png"
+    src="https://phillipmmarlowe.github.io/professionalpm/images/Engineering_Resume_PM.png"
     alt="CE Resume"
     title=""
     caption=""
@@ -22,4 +22,4 @@ showpagemeta = false
     class="about-figure"
 >}}
 
-[Download Resume (PDF)](https://phillipmmarlowe.github.io/professionalp/images/Engineering_Resume_PM.pdf)
+[Download Resume (PDF)](https://phillipmmarlowe.github.io/professionalpm/images/Engineering_Resume_PM.pdf)

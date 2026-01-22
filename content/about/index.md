@@ -16,4 +16,4 @@ My work sits at the intersection of automation, customization, and hardware desi
 
 Outside of engineering, I'm a passionate electric bass guitar player and live music lover, drawn to the richness of pure analog sound and the electronics that shape and guide it through amplifiers eventually for our ears to consume. I build and refine my own gear, from graduate level wiring and shielding to simple, custom-designed PCB effects pedals; combining my love of music with my expertise in hardware to craft unique and well designed experiences.
 
-I am also an avid athlete and deeply enjoy all forms of board sports (skateboarding, snowboarding, surfing), brazilian jiu-jitsu, and hiking mountainous trails. 
+I am also an avid athlete and deeply enjoy all forms of board sports (skateboarding, snowboarding, surfing), brazilian jiu-jitsu, and hiking nature trails. 

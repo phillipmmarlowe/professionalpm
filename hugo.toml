@@ -102,8 +102,3 @@ name = "projects"
 identifier = "projects"
 weight = 300
 url = "projects/"
-[[menu.main]]
-name = "posts"
-weight = 400
-identifier = "posts"
-url = "posts/"

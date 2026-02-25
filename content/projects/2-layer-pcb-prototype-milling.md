@@ -1,6 +1,6 @@
 ---
 title: "2‑Layer PCB Prototype Milling"
-date: 2026-02-24
+date: 2026-02-24T13:00:00+00:00
 tags: ["pcb", "milling", "prototyping"]
 summary: "Notes and photos from milling a 2‑layer PCB prototype."
 images:
@@ -35,7 +35,7 @@ Milled 50+ 2‑layer prototype pcbs during my time at BELS for various classes s
   alt="Board gerber view"
   title="Board in Gerber"
   caption="Gerber rendering showing top copper layer and board outline."
-  width="300"
+  width="150"
   class="about-figure"
 >}}
 {{< figure
@@ -43,6 +43,6 @@ Milled 50+ 2‑layer prototype pcbs during my time at BELS for various classes s
   alt="Mill software preview"
   title="Board in Mill Software"
   caption="Mill software preview (LPKF Boardmaster) showing milling and drill operations."
-  width="300"
+  width="150"
   class="about-figure"
 >}}

@@ -1,10 +1,9 @@
-+++
-date = '2025-12-03'
-draft = false
-title = 'Welcome to My Projects'
-tags = ["pcb", "milling", "prototyping"]
-categories = ["projects"]
-+++
+{
+   "date": "2023-10-19T00:40:04-07:00",
+   "title": "Prototype PCB Milling"
+   "tags": ["pcb", "milling", "prototyping"]
+   "categories": ["projects"]
+}
 
 ## Overview
 

@@ -22,7 +22,27 @@ Milled 50+ 2‑layer prototype pcbs during my time at BELS for various classes s
 
 ## Example Finished PCB
 
-![Finished board](/images/pcb_raw.png)
-![Board in gerber](/images/pcb_gerber.png)
-![Board in Mill software](/images/pcb_m60.png)
-
+{{< figure
+  src="https://phillipmmarlowe.github.io/professionalpm/images/pcb_raw.png"
+  alt="Finished milled PCB"
+  title="Finished Board"
+  caption="Finished milled 2‑layer PCB (unpopulated)."
+  width="300"
+  class="about-figure"
+>}}
+{{< figure
+  src="https://phillipmmarlowe.github.io/professionalpm/images/pcb_gerber.png"
+  alt="Board gerber view"
+  title="Board in Gerber"
+  caption="Gerber rendering showing top copper layer and board outline."
+  width="300"
+  class="about-figure"
+>}}
+{{< figure
+  src="https://phillipmmarlowe.github.io/professionalpm/images/pcb_m60.png"
+  alt="Mill software preview"
+  title="Board in Mill Software"
+  caption="Mill software preview (LPKF Boardmaster) showing milling and drill operations."
+  width="300"
+  class="about-figure"
+>}}

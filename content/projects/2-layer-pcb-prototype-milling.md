@@ -32,7 +32,7 @@ I've milled 50+ 2‑layer prototype pcbs during my time at BELS for various clas
   title="Board in Gerber"
   caption="Gerber rendering showing top copper layer and board outline."
   width="300"
-  class="about-figure-l"
+  class="about-figure"
 >}}
 {{< figure
   src="https://phillipmmarlowe.github.io/professionalpm/images/pcb_m60.png"
@@ -40,5 +40,5 @@ I've milled 50+ 2‑layer prototype pcbs during my time at BELS for various clas
   title="Board in Mill Software"
   caption="Mill software preview (LPKF Boardmaster) showing milling and drill operations."
   width="300"
-  class="about-figure-r"
+  class="about-figure"
 >}}

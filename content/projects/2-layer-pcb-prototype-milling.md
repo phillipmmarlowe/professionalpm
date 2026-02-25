@@ -36,7 +36,7 @@ Milled 50+ 2‑layer prototype pcbs during my time at BELS for various classes s
   title="Board in Gerber"
   caption="Gerber rendering showing top copper layer and board outline."
   width="150"
-  class="about-figure"
+  class="about-figure-l"
 >}}
 {{< figure
   src="https://phillipmmarlowe.github.io/professionalpm/images/pcb_m60.png"
@@ -44,5 +44,5 @@ Milled 50+ 2‑layer prototype pcbs during my time at BELS for various classes s
   title="Board in Mill Software"
   caption="Mill software preview (LPKF Boardmaster) showing milling and drill operations."
   width="150"
-  class="about-figure"
+  class="about-figure-r"
 >}}

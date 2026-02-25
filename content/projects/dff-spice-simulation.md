@@ -1,5 +1,5 @@
 +++
-date = '2025-11-15'
+date = 'Dec 12, 2025'
 draft = false
 title = 'D Flip Flop SPICE Simulation Environment'
 tags = ["Phillip Marlowe", "HSC", "SPICE", "ASAP7", "Simulation"]

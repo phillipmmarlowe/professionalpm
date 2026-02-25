@@ -1,5 +1,5 @@
 {
-   "date": "2023-10-19T00:40:04-07:00",
+   "date": "Feb 24, 2026",
    "title": "Prototype PCB Milling",
    "tags": ["pcb", "milling", "prototyping"],
    "categories": ["projects"]

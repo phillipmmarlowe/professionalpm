@@ -1,5 +1,5 @@
 +++
-date = 2025-12-03
+date = Dec 1, 2025
 draft = false
 title = 'Welcome to My Projects'
 tags = ["Phillip Marlowe"]

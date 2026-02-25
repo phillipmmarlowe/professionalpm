@@ -29,7 +29,7 @@ author = "Phillip Marlowe"
 intro = "FPGA/ASIC RTL and Physical Design Graduate"
 description = "Always busy"
 authorimage = "headshot.jpg"
-dateformat = "Dec 3, 2025"
+#dateformat = "Dec 3, 2025"
 backgroundImage = 'https://phillipmmarlowe.github.io/professionalpm/images/pcb_img.jpeg'
 
 ## Site Meta Settings

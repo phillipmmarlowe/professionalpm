@@ -1,6 +1,6 @@
 ---
 title: "2‑Layer PCB Prototype Milling"
-date: 2026-02-24T13:00:00+00:00
+date: 02-24-2024
 tags: ["pcb", "milling", "prototyping"]
 summary: "Notes and photos from milling a 2‑layer PCB prototype."
 images:

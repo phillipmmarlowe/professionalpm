@@ -1,9 +1,10 @@
----
-title: "2‑Layer PCB Prototype Milling"
-date: 2023-10-19T00:40:04-07:00
-tags: ["pcb", "milling", "prototyping"]
-summary: "Notes and photos from milling 2‑layer PCB prototypes."
----
++++
+date = '2025-12-03'
+draft = false
+title = 'Welcome to My Projects'
+tags = ["pcb", "milling", "prototyping"]
+categories = ["projects"]
++++
 
 ## Overview
 

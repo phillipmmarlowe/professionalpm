@@ -1,5 +1,5 @@
 +++
-date = '2025-12-01T10:00:00-08:00'
+date = '2025-12-01'
 draft = false
 title = 'Semi General Physical Design Flow for eFPGA RTL'
 tags = ["Phillip Marlowe", "HSC", "FPGA", "ASIC", "Physical Design"]

@@ -4,6 +4,8 @@ draft = false
 title = 'Welcome to My Projects'
 tags = ["Phillip Marlowe"]
 categories = ["projects"]
+
+showpagemeta = false
 +++
 
 ## Gotta Start Somewhere

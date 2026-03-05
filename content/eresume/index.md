@@ -9,9 +9,6 @@ title = "Engineering Resume"
 
 showpagemeta = false
 +++
-<!-- 
-{{< embed-pdf url="https://phillipmmarlowe.github.io/professionalpm/images/Engineering_Resume_PM.pdf">}}
- -->
 
 {{< figure
     src="https://phillipmmarlowe.github.io/professionalpm/images/Engineering_Resume_PM.png"

@@ -27,6 +27,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
         with:
+          persist-credentials: false
           submodules: recursive
           fetch-depth: 0
       - name: Setup Go
@@ -103,4 +104,5 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
+
         uses: actions/deploy-pages@v4

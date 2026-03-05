@@ -5,6 +5,7 @@ draft = false
 tags = ["pcb", "milling", "prototyping"]
 summary = "Notes and photos from milling a 2‑layer PCB prototype."
 images = ["/images/pcb_img.jpeg", "/images/image1.png", "/images/image3.PNG"]
+thumbnail = "/images/pcb_raw.png"
 +++
 
 ## Overview

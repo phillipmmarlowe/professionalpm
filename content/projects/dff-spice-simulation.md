@@ -1,9 +1,9 @@
 +++
-date = 'Dec 12, 2025'
+title = "DFF SPICE Simulation Environment"
+date = "2026-03-05T00:00:00Z"
 draft = false
-title = 'D Flip Flop SPICE Simulation Environment'
-tags = ["Phillip Marlowe", "HSC", "SPICE", "ASAP7", "Simulation"]
-categories = ["projects"]
+tags = ["SPICE", "analog", "simulation"]
+summary = ""
 +++
 
 I along with my colleagues built a SPICE simulation environment using Xyce as the SPICE simulator and PySpice to generate SPICE as well as stimuli. The simulation records output voltages/currents of particular ports on an ASAP7 D Flip Flop std cell. Other standard cells can be used in this environment as well, with some edits. Other PDKs can be used as well, again with some minor edits. Below is the final graph outputted by the environment.

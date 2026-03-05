@@ -1,9 +1,11 @@
-{
-   "date": "Feb 24, 2026",
-   "title": "Prototype PCB Milling",
-   "tags": ["pcb", "milling", "prototyping"],
-   "categories": ["projects"]
-}
++++
+title = "2‑Layer PCB Prototype Milling"
+date = "2026-02-24T00:00:00Z"
+draft = false
+tags = ["pcb", "milling", "prototyping"]
+summary = "Notes and photos from milling a 2‑layer PCB prototype."
+images = ["/images/pcb_img.jpeg", "/images/image1.png", "/images/image3.PNG"]
++++
 
 ## Overview
 

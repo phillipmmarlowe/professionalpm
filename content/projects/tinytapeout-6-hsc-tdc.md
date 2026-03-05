@@ -4,6 +4,7 @@ date = "2026-03-05T00:00:00Z"
 draft = false
 tags = ["tinytapeout", "asic", "open-source-silicon"]
 summary = "TinyTapeout 6 shuttle tapeout: full add, mux, and buffer TDC variants."
+thumbnail = "https://phillipmmarlowe.github.io/professionalpm/images/tinytapeout6chip.png"
 +++
 
 ## Overview

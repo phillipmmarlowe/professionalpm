@@ -13,7 +13,7 @@ During my masters, I assisted in the development of a semi-general, semi-automat
     src="https://phillipmmarlowe.github.io/professionalpm/images/image1.png"
     alt="FPGA Physical Design Flow"
     title="N8 K4 4x4 FPGA GDSII"
-    caption="Image of a Top-down flow produced N8 K4 4x4 FPGA GDSII"
+    caption="GDSII of a Top-down flow produced N8 K4 4x4 FPGA"
     width="300"
     class="about-figure"
 >}}

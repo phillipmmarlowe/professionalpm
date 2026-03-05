@@ -4,6 +4,7 @@ date = "2026-03-05T00:00:00Z"
 draft = false
 tags = ["tinytapeout", "asic", "open-source-silicon"]
 summary = "TinyTapeout 5 shuttle tapeout: tt_um_hls_lfi."
+thumbnail = "https://phillipmmarlowe.github.io/professionalpm/images/tinytapeout5chip.png"
 +++
 
 ## Overview

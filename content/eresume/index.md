@@ -6,8 +6,6 @@ draft = false
 slug = ""
 tags = ["eresume"]
 title = "Engineering Resume"
-
-showpagemeta = false
 +++
 
 {{< figure

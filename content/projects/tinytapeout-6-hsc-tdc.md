@@ -1,6 +1,6 @@
 +++
 title = "TinyTapeout 6 — HSC TDCs with various delay lines"
-date = "2026-03-05T00:00:00Z"
+date = "2024-04-20T00:00:00Z"
 draft = false
 tags = ["tinytapeout", "asic", "open-source-silicon"]
 summary = "TinyTapeout 6 shuttle tapeout: full add, mux, and buffer TDC variants."

@@ -1,6 +1,6 @@
 +++
 title = "TinyTapeout 5 — HLS Leaky Integrate and Fire Neuron"
-date = "2026-03-05T00:00:00Z"
+date = "2023-11-04T00:00:00Z"
 draft = false
 tags = ["tinytapeout", "asic", "open-source-silicon"]
 summary = "TinyTapeout 5 shuttle tapeout: tt_um_hls_lfi."
